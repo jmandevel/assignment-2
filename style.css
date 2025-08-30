@@ -1,0 +1,33 @@
+#site-header {
+    text-decoration: underline;
+    color: #a4a400;
+    text-align: center;
+    font-size: 22pt;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 18pt;
+    color: #a4a400;
+    text-decoration: underline;
+}
+
+body {
+    background-color: white;
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    color: #a4a400;
+}
+
+.testimonial {
+    background-color: #ffffa8;
+    font-style: italic;
+}
+
+.bullets {
+    list-style-image: url('images/fleur.png'); /* Use your image for bullets */
+}
